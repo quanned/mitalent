@@ -105,7 +105,7 @@
       bottom: 2
     },
     disableoutline: true,
-    horizrailenabled: true,
+    horizrailenabled: false,
     railalign: "right",
     railvalign: "bottom",
     enabletranslate3d: true,
@@ -120,7 +120,7 @@
     hidecursordelay: 400,
     nativeparentscrolling: true,
     enablescrollonselection: true,
-    overflowx: true,
+    overflowx: false,
     overflowy: true,
     cursordragspeed: 0.3,
     rtlmode: "auto",
